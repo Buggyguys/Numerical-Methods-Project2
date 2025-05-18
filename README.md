@@ -132,11 +132,11 @@ Each implementation includes detailed documentation, error handling, and visuali
 
 ### A5: Kepler's Equation - Root-Finding Methods Comparison
 
-![Kepler's Equation Convergence](charts/kepler_convergence_Newton.png)
-*Figure 1: Convergence of Newton's method for Kepler's equation*
+![Kepler's Equation Convergence](charts/Converge_Newton.png)
 
-![Kepler's Equation 2D Orbit](charts/kepler_orbit_2d_Newton.png)
-*Figure 2: 2D visualization of binary star orbit*
+
+![Kepler's Equation 2D Orbit](charts/Binary_Star_Orbit.png)
+
 
 #### Performance Comparison of Root-Finding Methods
 
@@ -150,8 +150,7 @@ Newton's method converges quadratically when close to the root, making it signif
 
 ### B2: Battery Discharge - Differentiation and Integration Analysis
 
-![Battery Discharge Curve](charts/battery_discharge_curve.png)
-*Figure 3: Battery discharge curve with derivative evaluation points*
+![Battery Discharge Curve](charts/Battery_Discharge_Curve.png)
 
 #### Numerical Differentiation Comparison at t = 1800s and t = 5400s
 
@@ -172,11 +171,10 @@ The central difference method provides the most accurate approximation of the de
 
 ### C3: Newton's Cooling - ODE Solution and Error Analysis
 
-![Coffee Cooling Temperature](charts/coffee_cooling_temperature.png)
-*Figure 4: Temperature vs. Time for different ODE solvers*
+![Coffee Cooling Temperature](charts/Coffee_Cooling_Simulation.png)
 
-![Coffee Cooling Error Analysis](charts/coffee_cooling_error.png)
-*Figure 5: Error vs. Step Size for different ODE solvers*
+![Coffee Cooling Error Analysis](charts/Error_VS_Step_Size.png)
+
 
 #### Time to Reach Target Temperature (60°C)
 
